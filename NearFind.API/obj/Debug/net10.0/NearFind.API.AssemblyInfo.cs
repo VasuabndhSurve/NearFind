@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NearFind.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72b0c9ee0808a983f30311467a21bea9af4b039b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NearFind.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NearFind.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
